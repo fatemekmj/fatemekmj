@@ -1,7 +1,7 @@
-- 👋 Hi, I’m fatemekomijani
+- 👋 Hi, I’m fateme komijani
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web desing
-- 📫 How to reach me email me to conntact me
+- 📫 email me to conntact me
 
 <!---
 fatemekmj/fatemekmj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
